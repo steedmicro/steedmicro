@@ -1,28 +1,6 @@
 # <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack Blockchain developer
 
-![Hi there, I'm a senior full stack developer]
-
----
-
-<table align="right">
-  <th>Also available in:</th>
-    <tr>
-      <td>
-        <a href="README.ca.md">
-          <img src="assets/img/ch.png" width="24" height="24" alt="Chinese"/>
-          <span>Chinese</span>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="README.md">
-          <img src="assets/img/uk.png" width="24" height="24" alt="English"/>
-          <span>English</span>
-        </a>
-      </td>
-    </tr>
-</table>
+Hi there, I'm a senior full stack developer
 
 👦🏻 **Pronouns**: He/Him
 

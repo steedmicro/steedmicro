@@ -1,6 +1,6 @@
 # <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack Blockchain developer
 
-![Hi there, I'm a senior full stack developer](https://github.com/steed924/steed924/blob/master/assets/img/programmer-gbe684690e_1280.png)
+![Hi there, I'm a senior full stack developer]
 
 ---
 
@@ -76,18 +76,6 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 4. ❗️ Opened issue [#235](https://github.com/anmol098/waka-readme-stats/issues/235) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. ❗️ Opened issue [#104](https://github.com/gautamkrishnar/blog-post-workflow/issues/104) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) -->
 <!--END_SECTION:activity-->
-
-<details>
-  <summary><strong>Top repositories</strong></summary>
-  <a href="https://github.com/steed924/ZillowScraper" target="__blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbuireu&repo=fbuireu&theme=onedark&hide_border=true"
-         alt="Zillow" />    
-  </a>
-  <a href="https://github.com/steed924/Ether-test-scaffold-eth" target="__blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbuireu&repo=biancafiore&theme=onedark&hide_border=true"
-         alt="ethertest" />
-  </a>
-</details>
 
 <!-- <details>
   <summary><strong>Top Contributions & Streak</strong></summary>

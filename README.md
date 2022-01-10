@@ -2,21 +2,6 @@
 
 Hi there, I'm a senior blockchain full stack developer
 
-👦🏻 **Pronouns**: He/Him
-
-🔭 **I’m currently working on**: NFT + Defi projects for NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
-scratch and fresh ideas).
-
-🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.
-
-👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks,
-overthrowing capitalism.
-
-💬 **Ask me about**: that time I invented a new risotto recipe during quarantine, or anything Gatsby-related.
-
-⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
-flipping tortillas. I know I can do it. My girlfriend disagrees.
-
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
@@ -42,6 +27,21 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 </p>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+
+👦🏻 **Pronouns**: He/Him
+
+🔭 **I’m currently working on**: NFT + Defi projects for NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
+scratch and fresh ideas).
+
+🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.
+
+👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks,
+overthrowing capitalism.
+
+💬 **Ask me about**: that time I invented a new risotto recipe during quarantine, or anything Gatsby-related.
+
+⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
+flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 ## 👨🏻‍💻 Check out my GitHub stats
 

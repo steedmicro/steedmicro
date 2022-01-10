@@ -1,6 +1,6 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm the manager of Full-stack & Blockchain team.
+# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm the developer & leader of Full-stack & Blockchain team.
 
-Hi there, I'm a senior blockchain full stack developer & manager.
+Hi there, I'm a senior blockchain full stack developer & team leader.
 
 I love working with challenges and great colleagues.
 I run a great team of senior Blockchain developers who are good at creating NFT + Defi projects.

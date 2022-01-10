@@ -1,10 +1,10 @@
 # <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack Blockchain developer
 
-Hi there, I'm a senior full stack developer
+Hi there, I'm a senior blockchain full stack developer
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: Defi projects for NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
+🔭 **I’m currently working on**: NFT + Defi projects for NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
 scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.

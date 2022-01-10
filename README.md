@@ -1,4 +1,4 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm the developer & leader of Full-stack & Blockchain team.
+# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm the Full-stack + Blockchain developer.
 
 Hi there, I'm a senior blockchain full stack developer & team leader.
 

@@ -3,7 +3,7 @@
 Hi there, I'm a senior Full stack + Blockchain developer & Team Leader.
 
 I love working with challenges and great colleagues.
-I run a great team of senior Blockchain developers who are good at creating NFT + Defi projects.
+I run a great team of senior Blockchain developers who are good at creating Full-stack + NFT & Defi projects.
 
 If you are interested about us, please feel free to contact us.
 

@@ -1,6 +1,11 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack Blockchain developer
+# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm the manager of senior Full-stack Blockchain developer team.
 
-Hi there, I'm a senior blockchain full stack developer
+Hi there, I'm a senior blockchain full stack developer & manager.
+
+I love working with challenges and great colleagues.
+I run a great team of senior Blockchain developers who are good at creating NFT + Defi projects.
+
+If you are interested about us, please feel free to contact us.
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
@@ -143,14 +148,6 @@ Last Updated on 28/10/2021
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fbuireu&theme=onedark&layout=compact&hide_border=true"
        alt="Wakatime Overall Languages" />
 </details>    -->
-
----
-
-## 🎧 My exquisite music taste
-
-<sup><sub>(I don't have proof, but I have no doubt either)</sub></sup>
-
-![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=buireu)
 
 ---
 

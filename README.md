@@ -110,3 +110,10 @@ Thanks very much.
 </p>
 
 <br/>
+
+<hr/>
+
+## 🚀 Github Snake
+
+Nice to meet you, from Github Snake... lol. <br>
+![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)

@@ -1,11 +1,16 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a Full-stack + Blockchain developer.
+# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a professional Blockchain / Web Fulllstack engineer.
 
-Hi there, I'm a senior Full stack + Blockchain developer & Team Leader.
+Hi. Nice to meet you all.
 
-I love working with challenges and great colleagues. <br>
-I run a great team of senior Blockchain developers who are good at creating Full-stack + NFT & Defi projects.
+I am a professional Blockchain / Web Fullstack engineer who loves learning sharp-end techonologies in blockchain world.
 
-If you are interested about us, please feel free to contact us.
+Before I jumped into the great sea of blockchain field, I worked as a fullstack developer with passion in Javascript | PHP | Python | C/C++.
+
+I love collaborating in open-source projects, writing smart code, learning and teaching each other with my dear colleagues.
+
+I love keeping my eyes on new trends in IT world, learning sharp-end technologies, and working on difficult and challenging tasks.
+
+Thanks very much.
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
@@ -32,50 +37,6 @@ If you are interested about us, please feel free to contact us.
 </p>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
-
-## 👨🏻‍💻 Check out my GitHub stats
-
-### Latest Activity
-
-<!--START_SECTION:activity-->
-<!-- 1. ❗️ Closed issue [#104](https://github.com/gautamkrishnar/blog-post-workflow/issues/104) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-2. 🗣 Commented on [#104](https://github.com/gautamkrishnar/blog-post-workflow/issues/104) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-3. 🗣 Commented on [#104](https://github.com/gautamkrishnar/blog-post-workflow/issues/104) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-4. ❗️ Opened issue [#235](https://github.com/anmol098/waka-readme-stats/issues/235) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. ❗️ Opened issue [#104](https://github.com/gautamkrishnar/blog-post-workflow/issues/104) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) -->
-<!--END_SECTION:activity-->
-
-<!-- <details>
-  <summary><strong>Top Contributions & Streak</strong></summary>
-  <a href="https://github.com/gatsbyjs/gatsby/pull/33261" target="__blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbuireu&repo=gatsby&theme=onedark&hide_border=true"
-       alt="Gatsby" />
-  </a>
-  <a href="https://github.com/netlify/netlify-cms/pull/3412" target="__blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbuireu&repo=netlify-cms&theme=onedark&hide_border=true"
-         alt="Netlify CMS" />
-  </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=fbuireu&theme=github&bg_color=282c34&line=c3a875&point=d77077&hide_border=true"
-       alt="Ferran Buireu's Monthly GitHub Contribution Grap" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbuireu&theme=onedark&hide_border=true"
-       alt="Ferran Buireu's GitHub Streak" />
-</details>     -->
-<!--
-<details>
-  <summary><strong>Languages & Stats</strong></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=fbuireu&show_icons=true&theme=onedark&hide_border=true"
-       alt="Ferran Buireu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuireu&show_icons=true&theme=onedark&hide_border=true"
-       alt="Ferran Buireu's Top GitHub Languages" />
-</details> -->
-
-<!-- <details>
-  <summary><strong>Trophies</strong></summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-frame=true"
-       alt="Ferran Buireu's Top GitHub Languages" />
-</details>     -->
-
-## <!--
 
 ## ⌛ Check out my Wakatime stats
 
@@ -110,10 +71,10 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Europe/Madrid
+⌚︎ Time Zone: USA/New York
 
 💬 Programming Languages:
-Dart                     23 hrs 27 mins      █████████████████████░░░░   86.43%
+Solidity                     23 hrs 27 mins      █████████████████████░░░░   86.43%
 JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.37%
 SCSS                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.67%
 YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
@@ -133,8 +94,8 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System:
-Mac                      23 hrs 46 mins      ██████████████████████░░░   87.55%
-Windows                  3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45%
+Windows                  23 hrs 46 mins      ██████████████████████░░░   87.55%
+LInux                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45%
 
 ```
 

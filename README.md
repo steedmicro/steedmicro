@@ -8,7 +8,7 @@ Hi. Nice to meet you all.
 
 I am a professional Blockchain / Web Fullstack engineer who loves learning sharp-end techonologies in blockchain world.
 
-Before I jumped into the great sea of blockchain field, I worked as a fullstack developer with passion in Javascript | PHP | Python | C/C++.
+Before I jumped into the great sea of blockchain field, I worked as a fullstack developer with passion in Typescript | PHP | Python | C/C++.
 
 I love collaborating in open-source projects, writing smart code, learning and teaching each other with my dear colleagues.
 
